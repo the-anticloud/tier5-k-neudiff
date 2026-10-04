@@ -1,0 +1,20 @@
+{
+  "benchmark": "Ruff_Linter_Lab_Results",
+  "project": "K_NEUDIFF",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://docs.astral.sh/ruff/",
+  "results": {
+    "framework": "Ruff \u2014 Fast Python Linter (Astral)",
+    "source": "https://docs.astral.sh/ruff/",
+    "files_scanned": 10,
+    "total_issues": 29,
+    "top_issue_codes": {
+      "I001": 8,
+      "UP025": 8,
+      "UP032": 7,
+      "UP031": 3,
+      "UP009": 1
+    },
+    "status": "FAIL"
+  }
+}
